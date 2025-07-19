@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.log
+env/
+venv/
+.yolov5/
+*.onnx
+*.pt
+.DS_Store
+.idea/
+*.iml
